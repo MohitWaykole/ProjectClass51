@@ -1,0 +1,72 @@
+.header{
+    background-color: #f0f8ff;
+    background-image:url("origami4.jpg");
+    background-position: center;
+    padding:10px;
+    margin:10px
+}
+
+.links{
+    display: inline;
+    justify-content: space-around;
+    background-image:url("origami5.jpg");
+    margin:20px;
+}
+
+.body{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: #f08080;
+}
+
+.grid img{
+    border:solid;
+    border-width:2px;
+    border-color:#000000;
+    border-radius:50px;
+}
+
+.oirgami{
+    border-radius:20px;
+    background-color: #ffffff;
+
+    width:310px;
+    font-family:fantasy;
+    padding:30px;
+    margin:10px;
+}
+.aboutOrigami{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border: solid;
+    border-radius: 10px;
+    padding:10px;
+    margin:20px;
+    background-color:#17F1CD;
+}
+
+.websitecontent{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-image: url("bg1.jpg");
+    padding:20px;
+    margin:10px;
+}
+
+body{
+    background-color: #F5F5F5;
+    margin:0px;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-around;
+    background-color: #000000;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+}
